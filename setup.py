@@ -12,4 +12,9 @@ setup(
         "fastapi",
         "uvicorn"
     ],
+    extras_require={
+        "dev": [
+            "pytest"
+        ],
+    }
 )
