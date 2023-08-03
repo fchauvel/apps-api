@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="apps-api",
+    name="appsapi",
     version="0.0.1",
     url="https://github.com/fchauvel/apps-api.git",
     author="Franck Chauvel",

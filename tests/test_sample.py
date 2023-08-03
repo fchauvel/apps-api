@@ -1,5 +1,5 @@
 from unittest import TestCase
-from api.runner import app
+from appsapi.runner import app
 from fastapi.testclient import TestClient
 
 
